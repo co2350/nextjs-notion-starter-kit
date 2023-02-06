@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Knowledge base',
-  domain: 'https://glowing-pike-915.notion.site/716ea47a584549c382d9b42c1cbfcbc3',
+  domain: 'www.a4qq.com',
   author: 'Raven',
 
   // open graph metadata (optional)
